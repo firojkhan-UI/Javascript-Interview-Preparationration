@@ -1,0 +1,2 @@
+Hello,
+Currently I'm learing javascript from scratch how to work javascript behind the machine.
